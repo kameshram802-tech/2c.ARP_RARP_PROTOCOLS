@@ -43,7 +43,11 @@ while True:
        c.send("Not Found".encode())
 ```
 ## OUPUT - ARP
-<img width="1919" height="392" alt="Screenshot 2026-05-12 134614" src="https://github.com/user-attachments/assets/77f5185f-d835-446c-95dc-dcb73186e26a" />
+## SERVER
+<img width="953" height="387" alt="Screenshot 2026-05-12 141441" src="https://github.com/user-attachments/assets/985e76e3-35f2-49eb-b3ce-a2f5cad2161d" />
+
+## CLIENT
+<img width="965" height="396" alt="Screenshot 2026-05-12 141425" src="https://github.com/user-attachments/assets/73861dbe-18ca-47a9-b019-d42f065f2c41" />
 
 ## PROGRAM - RARP
 ### SERVER.py
@@ -73,7 +77,11 @@ while True:
        c.send("Not Found".encode())
 ```
 ## OUPUT -RARP
-<img width="1919" height="411" alt="Screenshot 2026-05-12 133617" src="https://github.com/user-attachments/assets/fa560d73-7fc9-40f2-8659-7574cec6a037" />
+## SERVER
+<img width="958" height="410" alt="Screenshot 2026-05-12 141746" src="https://github.com/user-attachments/assets/5b0c94da-362d-4e88-bb24-3bc9a9202d2d" />
+
+## CLIENT
+<img width="957" height="409" alt="Screenshot 2026-05-12 141735" src="https://github.com/user-attachments/assets/731c09f0-f278-4acb-a6cc-438e145301c5" />
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
